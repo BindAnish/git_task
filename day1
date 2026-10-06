@@ -1,3 +1,5 @@
+------------ git installetion process--------------------
+          scm.com/install/ ------- this is git link install localy  
 git command day 1 --------------------------------
 git init init 
 git status 
@@ -27,3 +29,10 @@ git is version control system.
 git hub is cicd tool .
 git feas  step git working to tsaging to local to remote .
 
+----------------------------------------------------------------------------------
+you learn to git pionts -----------------------------
+1> git branch 
+2> git ignore 
+3> git stash 
+4> git token 
+5> git 
