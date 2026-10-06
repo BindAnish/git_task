@@ -13,6 +13,14 @@ git status
 git commit -m ""
 git lod 
 
+---------------git bash to git hub  push command ---------------
+echo "# git_task" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BindAnish/git_task.git
+git push -u origin main
 
 
 git is version control system.
