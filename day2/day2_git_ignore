@@ -1,0 +1,20 @@
+git ignore command use ---------------------------
+what is git ignore >> git ignore is hide importent ,enwonted code  eles file .
+
+---------------------------------------------------------------------------------
+git ignore  command 
+
+cretae a any file. > touch html
+ex >html 
+hoid html file .
+ 
+ceretae a .ginore file >  touch .ignore 
+nano .ignore >>> inside wirte a wich file ignore >
+ex > .ignore inside > html 
+-------------------------------------------------------------------------------------
+chack status >git ststus 
+show only .ignore becous he >hide a html file 
+
+------------------------------------------------------------------------------------
+
+  
