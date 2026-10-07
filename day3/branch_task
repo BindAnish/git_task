@@ -95,3 +95,6 @@ git commit -m"add file in branch "-----> commit file
           -----------> show blank file wirat a reseen .
 affter your work commplit delete this branch 
 git branch -d <branch_name> -----------> detele command .
+-----------------git switch main ---------------------
+-----------------git pull origin main-------------------
+------------------git merge branch_method----------------
